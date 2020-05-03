@@ -4,7 +4,7 @@ import pandas as pd
 import urllib.error
 import time
 
-pages = 50
+pages = 100
 rec_count = 0
 rank = []
 gname = []
